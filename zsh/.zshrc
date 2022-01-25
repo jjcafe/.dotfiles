@@ -3,7 +3,7 @@
 
 # Path to your oh-my-zsh installation.
 #installation via script from github
-export ZSH="/home/$USER/.oh-my-zsh"
+export ZSH="/home/$USER/.config/zsh/.oh-my-zsh"
 #installation via yay -S oh-my-zsh-git
 #export ZSH=/usr/share/oh-my-zsh/
 
