@@ -1,0 +1,8 @@
+{
+	"rulers": [10,20,30,40,50,60,70,80],
+	"translate_tabs_to_spaces":true,
+	"detect_indentation": false,
+	"auto_indent": false,
+	"indent_subsequent_lines": false,
+	"draw_indent_guides": false,
+}

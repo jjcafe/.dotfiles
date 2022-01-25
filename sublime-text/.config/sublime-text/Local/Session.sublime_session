@@ -1,0 +1,727 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4121,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"next_update_check": 1640024537,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1045.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jj/SAMSUNG_1TB/LSDYNA/K/IMPLICIT.k",
+				"/home/jj/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/jj/.config/sublime-text/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1671.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jj/SAMSUNG_1TB/LSDYNA/K/IMPLICIT.k",
+					"settings":
+					{
+						"buffer_size": 1613,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEwGAAAAAAAATAYAAAAAAAABAAAAUA",
+							"AQAAAAAAAAABAAAATQYAAAAAAABNBgAAAAAAAP///////+9/"
+						],
+						[
+							7,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line Before.sublime-macro"
+							},
+							"AgAAAEgGAAAAAAAASQYAAAAAAAAAAAAASAYAAAAAAABRBgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATAYAAAAAAABMBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							3,
+							"left_delete",
+							null,
+							"AwAAAFAGAAAAAAAAUAYAAAAAAAABAAAAIEgGAAAAAAAASAYAAAAAAAAIAAAAICAgICAgICBHBgAAAAAAAEcGAAAAAAAAAQAAAAo",
+							"AQAAAAAAAAABAAAAUQYAAAAAAABRBgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nGitHub Theme\n------------\n\n  ## GitHub Theme for Sublime Text! 🎉\n\n  ### Activate the theme\n\n  **You can active this theme from:**\n\n  1. Command Palette `Tools → Command Palette` or `CMD/CTRL` + `SHIFT` + `P`\n  2. Typing `UI: Select Theme` next find for `GitHub Theme` and press `ENTER`\n  3. Same process for scheme go to the Command Palette.\n  4. Typing `UI: Select Color Scheme` choose you favorite scheme and press `ENTER`\n\n  Manually you can go to (**Preferences → Settings - User**) and paste the following code:\n\n  ```json\n  {\n      \"color_scheme\": \"Packages/GitHub Theme/schemes/GitHub Light.sublime-color-scheme\",\n      \"theme\": \"GitHub-Theme.sublime-theme\"\n  }\n  ```",
+					"settings":
+					{
+						"buffer_size": 725,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "Package Control Messages\n========================\n\nGitHub Theme\n------------\n\n  ## GitHub Theme for Sublime Text! 🎉\n\n  ### Activate the theme\n\n  **You can active this theme from:**\n\n  1. Command Palette `Tools → Command Palette` or `CMD/CTRL` + `SHIFT` + `P`\n  2. Typing `UI: Select Theme` next find for `GitHub Theme` and press `ENTER`\n  3. Same process for scheme go to the Command Palette.\n  4. Typing `UI: Select Color Scheme` choose you favorite scheme and press `ENTER`\n\n  Manually you can go to (**Preferences → Settings - User**) and paste the following code:\n\n  ```json\n  {\n      \"color_scheme\": \"Packages/GitHub Theme/schemes/GitHub Light.sublime-color-scheme\",\n      \"theme\": \"GitHub-Theme.sublime-theme\"\n  }\n  ```"
+							},
+							"KgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAACNAAAAAAAAAAAAAACNAAAAAAAAAI4AAAAAAAAAAAAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAAMBAAAAAAAAUAEAAAAAAAAAAAAAUAEAAAAAAABRAQAAAAAAAAAAAABRAQAAAAAAAIgBAAAAAAAAAAAAAIgBAAAAAAAAiQEAAAAAAAAAAAAAiQEAAAAAAADbAQAAAAAAAAAAAADbAQAAAAAAANwBAAAAAAAAAAAAANwBAAAAAAAA3QEAAAAAAAAAAAAA3QEAAAAAAAA3AgAAAAAAAAAAAAA3AgAAAAAAADgCAAAAAAAAAAAAADgCAAAAAAAAOQIAAAAAAAAAAAAAOQIAAAAAAABCAgAAAAAAAAAAAABCAgAAAAAAAEMCAAAAAAAAAAAAAEMCAAAAAAAARgIAAAAAAAAAAAAARgIAAAAAAABHAgAAAAAAAAAAAABHAgAAAAAAAJ8CAAAAAAAAAAAAAJ8CAAAAAAAAoAIAAAAAAAAAAAAAoAIAAAAAAADLAgAAAAAAAAAAAADLAgAAAAAAAMwCAAAAAAAAAAAAAMwCAAAAAAAAzwIAAAAAAAAAAAAAzwIAAAAAAADQAgAAAAAAAAAAAADQAgAAAAAAANUCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/jj/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 324,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							10,
+							1,
+							"paste",
+							null,
+							"AQAAAIwAAAAAAAAArgAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "Meslo"
+							},
+							"BQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJoAAAAAAAAAmgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " LG"
+							},
+							"AwAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " S"
+							},
+							"AgAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAogAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							19,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAAMA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcAAAAAAAAAtwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": "4"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYAAAAAAAAAtgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							21,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAANA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcAAAAAAAAAtwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYAAAAAAAAAtgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							23,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAAMg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcAAAAAAAAAtwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYAAAAAAAAAtgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							25,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAAMw",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcAAAAAAAAAtwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "4"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYAAAAAAAAAtgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							27,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAANA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcAAAAAAAAAtwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYAAAAAAAAAtgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							35,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAC7AAAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAp9CgAAAAAAAAAA7AAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALsAAAAAAAAAuwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							36,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAADsAAAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKfQoAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALsAAAAAAAAAuwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAQAQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKfQoAAAAAAAAAAEQBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABEAQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiQWJhcXVzIiwKCQkiVmludGFnZSIKCV0sCn0KAAAAAAAAAAA5AQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAAA5AQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiVmludGFnZSIsCgldLAp9CgAAAAAAAAAAOQEAAAAAAAAAAAAAAAAAAAAAAAA5AQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAA5AQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiVmludGFnZSIsCgldLAp9CgAAAAAAAAAASwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABLAQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiR2l0SHViIFRoZW1lIiwKCQkiVmludGFnZSIsCgldLAp9CgAAAAAAAAAAOQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAA5AQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiVmludGFnZSIsCgldLAp9CgAAAAAAAAAAOQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAA5AQAALy8gU2V0dGluZ3MgaW4gaGVyZSBvdmVycmlkZSB0aG9zZSBpbiAiRGVmYXVsdC9QcmVmZXJlbmNlcy5zdWJsaW1lLXNldHRpbmdzIiwKLy8gYW5kIGFyZSBvdmVycmlkZGVuIGluIHR1cm4gYnkgc3ludGF4LXNwZWNpZmljIHNldHRpbmdzLgp7CgkiZm9udF9mYWNlIjogIk1lc2xvIExHIFMiLAoJImZvbnRfc2l6ZSI6IDEzLAoJImNvbG9yX3NjaGVtZSI6ICJNYXJpYW5hLnN1YmxpbWUtY29sb3Itc2NoZW1lIiwKCSJ0aGVtZSI6ICJBZGFwdGl2ZS5zdWJsaW1lLXRoZW1lIiwKCSJpZ25vcmVkX3BhY2thZ2VzIjoKCVsKCQkiVmludGFnZSIsCgldLAp9CgAAAAAAAAAARAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jj/SAMSUNG_1TB/LSDYNA/K/IMPLICIT.k",
+				"/home/jj/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/jj/.config/sublime-text/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jj/SAMSUNG_1TB/LSDYNA/K/IMPLICIT.k",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1613,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1607,
+										1607
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LS-DYNA/LS-DYNA.tmLanguage",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										725,
+										725
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/jj/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 324,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										324,
+										324
+									]
+								],
+								"settings":
+								{
+									"edit_settings_default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t\n}\n",
+									"edit_settings_other_view_id": 26,
+									"edit_settings_view": "user",
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.598253963523,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,2155,1101,3826,2146,3840,2160,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

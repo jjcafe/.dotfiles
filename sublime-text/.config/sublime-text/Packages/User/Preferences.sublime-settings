@@ -1,0 +1,13 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_face": "Meslo LG S",
+	"font_size": 14,
+	"color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"syntax_detection_size_limit": 16777216000,
+}
