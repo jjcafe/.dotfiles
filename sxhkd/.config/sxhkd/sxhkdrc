@@ -1,0 +1,78 @@
+### wm independent hotkeys
+
+# terminal emulator
+super + Return
+  alacritty
+
+super + shift + Return
+#  thunar
+  pcmanfm
+
+super + F1
+  firefox
+
+F12
+        xfce4-terminal --drop-down
+
+super + p
+	rofi -modi drun -show drun -line-padding 4 \
+                -columns 2 -padding 50 -hide-scrollbar -terminal xfce4-terminal \
+                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 14"
+
+# show open window
+super + ctrl + d
+	rofi -modi drun -show window -line-padding 4 \
+                -columns 2 -padding 50 -hide-scrollbar -terminal xfce4-terminal \
+                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 14"
+
+# show ssh sesssions
+super + shift + d
+	rofi -modi drun -show ssh -line-padding 4 \
+                -columns 2 -padding 50 -hide-scrollbar -terminal xfce4-terminal \
+                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 14"
+
+# power-menu
+super + shift + x
+     ~/.config/rofi/powermenu.sh
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+XF86AudioRaiseVolume
+  pactl set-sink-volume @DEFAULT_SINK@ +5%
+
+XF86AudioLowerVolume
+  pactl set-sink-volume @DEFAULT_SINK@ -5%
+
+### awesome hotkeys
+
+# quit/restart
+super + shift + r
+    echo "awesome.restart()" | awesome-client
+
+# close and kill
+super + {_, shift + } q
+    echo "client.focus:kill()" | awesome-client
+
+# focus the next/previous client
+super + {j,k}
+    echo "awful.client.focus.byidx({-1,1})" | awesome-client
+
+super + shift + {j,k}
+    echo "awful.client.swap.byidx({-1,1})" | awesome-client
+
+# focus or send to the given desktop
+super + {1-9,0}{_, + ctrl, + shift}
+    echo "awful = require('awful') tag = awful.screen.focused().tags[{1-9,10}] {tag:view_only(),awful.tag.viewtoggle(tag),client.focus:move_to_tag(tag)}" | awesome-client
+
+# resize master
+super + ctrl + {h,l}
+    echo "require('awful').tag.incmwfact({-,_}0.05)" | awesome-client
+
+# next layout
+super + space
+    echo "awful.layout.inc(1)" | awesome-clientl
+
+
+
